@@ -14,7 +14,11 @@ This is a modern WordPress stack that helps you get started with the best develo
 * PHP >= 5.4
 * Composer - [Install](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx)
 
-## Manual Install
+## Install with Ansible
+
+Follow the [WP-Ansible Installation Instructions](https://github.com/drewrawitz/wp-ansible) and just clone this repo as the `site` folder.
+
+## Standalone Install
 
 1. Clone the git repo - `git clone https://github.com/drewrawitz/wp-stack.git`
 2. Run `composer install`
