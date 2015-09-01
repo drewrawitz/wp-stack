@@ -1,27 +1,21 @@
 {
-  "name": "roots/bedrock",
+  "name": "drewrawitz/wp-stack",
   "type": "project",
   "license": "MIT",
-  "description": "A modern WordPress stack",
-  "homepage": "https://roots.io/bedrock/",
+  "description": "A modern WordPress stack based on Bedrock by roots.io",
+  "homepage": "https://github.com/drewrawitz/wp-stack",
   "authors": [
     {
-      "name": "Scott Walkinshaw",
-      "email": "scott.walkinshaw@gmail.com",
-      "homepage": "https://github.com/swalkinshaw"
-    },
-    {
-      "name": "Ben Word",
-      "email": "ben@benword.com",
-      "homepage": "https://github.com/retlehs"
+      "name": "Drew Rawitz",
+      "email": "email@drewrawitz.com",
+      "homepage": "http://www.drewrawitz.com"
     }
   ],
   "keywords": [
-    "bedrock", "roots", "wordpress", "stack", "composer", "vagrant", "wp"
+    "wordpress", "stack", "composer", "vagrant", "wp"
   ],
   "support": {
-    "issues": "https://github.com/roots/bedrock/issues",
-    "forum": "https://discourse.roots.io/category/bedrock"
+    "issues": "https://github.com/drewrawitz/wp-stack/issues"
   },
   "config": {
     "preferred-install": "dist"
