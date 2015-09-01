@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "6d355385b9e7fd3c4cb6abb70775518b",
+    "hash": "8d451f8cc1848e459d55c68f0bbdf72a",
     "packages": [
         {
             "name": "composer/installers",
@@ -316,15 +316,15 @@
         },
         {
             "name": "wpackagist-plugin/disable-comments",
-            "version": "1.3.1",
+            "version": "1.3.2",
             "source": {
                 "type": "svn",
                 "url": "http://plugins.svn.wordpress.org/disable-comments/",
-                "reference": "tags/1.3.1"
+                "reference": "tags/1.3.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/disable-comments.1.3.1.zip",
+                "url": "https://downloads.wordpress.org/plugin/disable-comments.1.3.2.zip",
                 "reference": null,
                 "shasum": null
             },
